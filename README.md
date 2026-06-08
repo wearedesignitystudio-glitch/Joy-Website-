@@ -12,12 +12,21 @@ A premium multi-page website for Aurum Legal Solutions — a client-focused Aust
 
 ## Getting Started
 
+From the project root (`lOGO SAMPLE`):
+
 ```bash
 npm install
 npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+For production:
+
+```bash
+npm run build
+npm start
+```
 
 ## Pages
 
