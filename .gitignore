@@ -31,4 +31,13 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
-next-env.d.ts
+
+# Loose design assets at repo root (not part of the Next.js app)
+/*.png
+/*.jpg
+/*.jpeg
+/*.svg
+/*.pdf
+/kent_tour_safaris_*
+/*.txt
+!README.md
